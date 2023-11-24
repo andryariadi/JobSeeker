@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "HSE Officer",
+    "description": "Bertanggungjawab untuk memastikan keselamatan di lokasi tambang, mengembangkan pedoman keselamatan, dan melakukan pelatihan K3",
+    "companyId": 1,
+    "authorId": 1,
+    "jobType": "Full Time"
+  },
+  {
+    "id": 2,
+    "title": "Ahli Lingkungan",
+    "description": "Bertanggungjawab mengelola dampak lingkungan yang timbul dari operasi pertambangan, bekerja sama dengan tim manajemen, insinyur, geolog, dan staf lainnya untuk meminimalkan dampak lingkungan dan mempromosikan praktik-praktik berkelanjutan",
+    "companyId": 1,
+    "authorId": 1,
+    "jobType": "Full Time"
+  },
+  {
+    "id": 3,
+    "title": "Insinyur Pertambangan",
+    "description": "Bertanggungjawab utama untuk mengelola dan mengoptimalkan operasi pertambangan agar berjalan dengan efisien, aman, dan menguntungkan",
+    "companyId": 1,
+    "authorId": 2,
+    "jobType": "Full Time"
+  },
+  {
+    "id": 4,
+    "title": "Operator Alat Berat",
+    "description": "Bertanggungjawab untuk mengoperasikan dan merawat alat berat dengan aman dan efisien",
+    "companyId": 1,
+    "authorId": 2,
+    "jobType": "Part Time"
+  },
+  {
+    "id": 5,
+    "title": "IT",
+    "description": "Bertanggungjawab untuk mengelola dan mengoptimalkan sistem teknologi informasi guna mendukung operasi dan manajemen pertambangan",
+    "companyId": 1,
+    "authorId": 1,
+    "jobType": "Full Time"
+  }
+]

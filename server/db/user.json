@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "AndryAriadi",
+    "email": "andry23@mail.com",
+    "password": "andry23",
+    "role": "admin",
+    "phoneNumber": "088999666333",
+    "addres": "Jl Bendungan Sutami"
+  },
+  {
+    "id": 2,
+    "username": "Tasmiah",
+    "email": "tasmiah23@mail.com",
+    "password": "tasmiah23",
+    "role": "customer",
+    "phoneNumber": "088999666333",
+    "addres": "Jl Bendungan Sutami"
+  }
+]

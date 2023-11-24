@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "PT. Freeport Indonesia",
+    "companyLogo": "https://ptfi.co.id/site/uploads/logo/603e0680de9d5-logo-white-text-2021.png",
+    "location": "Papua, Indonesia",
+    "email": "ptfi_communications@fmi.com",
+    "description": "Salah satu perusahaan tambang terkemuka di dunia, PT Freeport Indonesia melakukan eksplorasi, menambang, dan memproses bijih yang mengandung tembaga, emas, dan perak di daerah dataran tinggi di Kabupaten Mimika, Provinsi Papua, Indonesia."
+  },
+  {
+    "id": 2,
+    "name": "PT. ANTAM Tbk",
+    "companyLogo": "https://www.antam.com/uploads/web_config/5dde17b432a94_20191127132908-1.png",
+    "location": "Jakarta, Indonesia",
+    "email": "corsec@antam.com",
+    "description": "Bagian dari MIND ID yang terutama bergerak di bidang pertambangan nikel, bauksit, dan emas. Untuk mendukung kegiatan bisnisnya, hingga akhir tahun 2021, perusahaan ini juga memiliki 15 butik emas yang terletak di 11 kota di Indonesia."
+  },
+  {
+    "id": 3,
+    "name": "PT. Pertamina",
+    "companyLogo": "https://www.pertamina.com/landing/images/logo.png",
+    "location": "Jakarta, Indonesia",
+    "email": "pcc135@pertamina.com",
+    "description": "Sebuah badan usaha milik negara Indonesia yang bergerak di bidang minyak dan gas yang bergerak di bidang hulu, kilang & petrokimia."
+  },
+  {
+    "id": 4,
+    "name": "PT. Timah",
+    "companyLogo": "https://timah.com/themes/globals/logo.png",
+    "location": "Pangkal Pinang, Indonesia",
+    "email": "corsec@pttimah.co.id",
+    "description": "Bagian dari MIND ID yang terutama bergerak di bidang pertambangan timah, batu bara, dan nikel. Perusahaan ini memiliki Pertambangan seluas 45.009 hektar dengan cadangan timah sebanyak 300.000 ton."
+  },
+  {
+    "id": 5,
+    "name": "PT. Adaro Energy",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/id/1/1d/Adaro_energy.jpeg",
+    "location": "Jakarta, Indonesia",
+    "email": "corsec@adaro.com",
+    "description": "Sejarah Adaro dimulai dari guncangan minyak dunia pada tahun 1970an. Departemen Pertambangan membagi Kalimantan Timur dan Selatan menjadi 8 blok batubara dan membuka tender untuk blok-blok tersebut."
+  }
+]

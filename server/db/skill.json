@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "jobId": 1,
+    "name": "AK3 Pertambangan",
+    "level": "Advanced"
+  },
+  {
+    "id": 2,
+    "jobId": 2,
+    "name": "AK3 Lingkungan",
+    "level": "Intermediate"
+  },
+  {
+    "id": 3,
+    "jobId": 3,
+    "name": "AK3 Pertambangan",
+    "level": "Advanced"
+  },
+  {
+    "id": 4,
+    "jobId": 4,
+    "name": "SIO",
+    "level": "Intermediate"
+  },
+  {
+    "id": 5,
+    "jobId": 5,
+    "name": "CopmTIA A+",
+    "level": "Advanced"
+  }
+]
